@@ -1,0 +1,4 @@
+# Compiled Bicep output (JSON build artifacts)
+main.json
+modules/*.json
+
